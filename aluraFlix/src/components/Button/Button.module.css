@@ -1,0 +1,17 @@
+.button {
+  border: 3px solid var(--color-white);
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+  color: #fff;
+  background-color: transparent;
+}
+
+.button:hover {
+  cursor: pointer;
+  border-color: var(--color-blue);
+  color: var(--color-blue);
+  box-shadow: 1px 1px 3px 2px var(--color-blue) inset;
+  -webkit-box-shadow: 1px 1px 3px 2px var(--color-blue) inset;
+  -moz-box-shadow: 1px 1px 3px 2px var(--color-blue) inset;
+}
