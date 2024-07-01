@@ -20,6 +20,7 @@
   flex-wrap: wrap;
   gap: 15px;
   justify-content: center;
+  padding-bottom: 50px;
 }
 
 .config {
