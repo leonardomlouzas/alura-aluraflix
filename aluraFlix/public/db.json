@@ -1,0 +1,76 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "type": "front-end",
+      "videos": [
+        {
+          "id": 1,
+          "title": "O que faz uma desenvolvedora Front-end?",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis odio illo laborum natus accusantium. Delectus laboriosam molestias voluptates enim, distinctio explicabo perferendis quisquam qui ipsa voluptate necessitatibus omnis illum suscipit.",
+          "thumbnail": "/frontend_1.png"
+        },
+        {
+          "id": 2,
+          "title": "Árvores Binárias",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis odio illo laborum natus accusantium. Delectus laboriosam molestias voluptates enim, distinctio explicabo perferendis quisquam qui ipsa voluptate necessitatibus omnis illum suscipit.",
+          "thumbnail": "/frontend_2.png"
+        },
+        {
+          "id": 3,
+          "title": "Implementando UX no Front-end",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis odio illo laborum natus accusantium. Delectus laboriosam molestias voluptates enim, distinctio explicabo perferendis quisquam qui ipsa voluptate necessitatibus omnis illum suscipit.",
+          "thumbnail": "/frontend_3.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "back-end",
+      "videos": [
+        {
+          "id": 1,
+          "title": "O que estudar para ser Back-end developer",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis odio illo laborum natus accusantium. Delectus laboriosam molestias voluptates enim, distinctio explicabo perferendis quisquam qui ipsa voluptate necessitatibus omnis illum suscipit.",
+          "thumbnail": "/backend_1.png"
+        },
+        {
+          "id": 2,
+          "title": "Github CLI - Uma nova experiência no GitHub",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis odio illo laborum natus accusantium. Delectus laboriosam molestias voluptates enim, distinctio explicabo perferendis quisquam qui ipsa voluptate necessitatibus omnis illum suscipit.",
+          "thumbnail": "/backend_2.png"
+        },
+        {
+          "id": 3,
+          "title": "Qual a melhor linguagem de programação",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis odio illo laborum natus accusantium. Delectus laboriosam molestias voluptates enim, distinctio explicabo perferendis quisquam qui ipsa voluptate necessitatibus omnis illum suscipit.",
+          "thumbnail": "/backend_3.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "mobile",
+      "videos": [
+        {
+          "id": 1,
+          "title": "Palestra sobre React Native Emily Janzer",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis odio illo laborum natus accusantium. Delectus laboriosam molestias voluptates enim, distinctio explicabo perferendis quisquam qui ipsa voluptate necessitatibus omnis illum suscipit.",
+          "thumbnail": "/mobile_1.png"
+        },
+        {
+          "id": 2,
+          "title": "Desenvolvimento Android",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis odio illo laborum natus accusantium. Delectus laboriosam molestias voluptates enim, distinctio explicabo perferendis quisquam qui ipsa voluptate necessitatibus omnis illum suscipit.",
+          "thumbnail": "/mobile_2.png"
+        },
+        {
+          "id": 3,
+          "title": "Iniciando no mundo do Mobile",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis odio illo laborum natus accusantium. Delectus laboriosam molestias voluptates enim, distinctio explicabo perferendis quisquam qui ipsa voluptate necessitatibus omnis illum suscipit.",
+          "thumbnail": "/mobile_3.png"
+        }
+      ]
+    }
+  ]
+}
