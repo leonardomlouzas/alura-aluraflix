@@ -1,0 +1,53 @@
+.carousel {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  text-transform: uppercase;
+  width: 250px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+.videos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
+
+.config {
+  display: flex;
+  justify-content: space-around;
+  background-color: var(--color-black);
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 0 0 10px 10px;
+}
+
+.thumbnail {
+  max-width: 100%;
+  height: auto;
+}
+
+.button {
+  color: var(--color-white);
+  width: 50%;
+  background-color: transparent;
+  border: none;
+  padding: 10px 0px;
+}
+
+.button:hover {
+  cursor: pointer;
+  filter: brightness(0.5);
+}
+
+.icon {
+  vertical-align: middle;
+}

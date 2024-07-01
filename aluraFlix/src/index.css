@@ -3,6 +3,9 @@
   --color-black-light: #262626;
   --color-blue: #3179d3;
   --color-white: #fff;
+  --color-frontend: #6bd1ff;
+  --color-backend: #00c86f;
+  --color-mobile: #ffba05;
 }
 
 body {
@@ -10,4 +13,21 @@ body {
   padding: 0;
   background-color: var(--color-black-light);
   color: var(--color-white);
+}
+
+.front-end {
+  background-color: var(--color-frontend);
+  border-color: var(--color-frontend);
+}
+
+.back-end {
+  background-color: var(--color-backend);
+}
+
+.mobile {
+  background-color: var(--color-mobile);
+}
+
+.config {
+  border-color: ;
 }
