@@ -15,6 +15,7 @@
 }
 
 .videos {
+  width: 95vw;
   display: flex;
   flex-wrap: wrap;
   gap: 15px;
