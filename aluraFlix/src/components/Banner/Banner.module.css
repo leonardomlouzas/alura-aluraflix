@@ -19,12 +19,12 @@
   z-index: -1;
 }
 .info {
-  width: 50%;
+  width: 80%;
   z-index: 1;
 }
 
 .thumbnail {
-  width: 50%;
+  width: 80%;
   z-index: 1;
 }
 
