@@ -13,10 +13,11 @@ export default function Banner() {
           SEO com React <span>FRONT-END</span>
         </h2>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
-          odio illo laborum natus accusantium. Delectus laboriosam molestias
-          voluptates enim, distinctio explicabo perferendis quisquam qui ipsa
-          voluptate necessitatibus omnis illum suscipit.
+          Eu to aqui pra nesse vídeo dizer que a gente vai aprender a começar
+          uma app inspirada no desenho Pokémon com Nextjs e React, ver algumas
+          dicas sobre performance e de quebra conhecer uma plataforma
+          sensacional pra fazer deploy que é a Vercel. Tudo em 22 minutos nesse
+          vídeo feito com todo o carinho do mundo construindo uma Pokedex!
         </p>
       </section>
       <img className={styles.thumbnail} src={player}></img>
