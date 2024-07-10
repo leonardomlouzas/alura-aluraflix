@@ -2,7 +2,7 @@ import { FaEdit } from "react-icons/fa";
 import { MdOutlineDeleteForever } from "react-icons/md";
 import styles from "./Carousel.module.css";
 
-export default function Carousel({ type, videos, onDeleteVideo }) {
+export default function Carousel({ type, videos, toggleEdit, onDeleteVideo }) {
   return (
     <div className={styles.carousel}>
       <h3 className={` ${styles.title} ${type}`}>{type}</h3>
@@ -15,7 +15,10 @@ export default function Carousel({ type, videos, onDeleteVideo }) {
               alt={video.title}
             />
             <section className={`${styles.config} ${type}`}>
-              <button className={styles.button}>
+              <button
+                className={styles.button}
+                onClick={() => toggleEdit(video)}
+              >
                 <FaEdit size={25} className={styles.icon} />
                 <span className={styles.buttonText}>Editar</span>
               </button>
