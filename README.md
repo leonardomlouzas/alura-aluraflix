@@ -22,7 +22,7 @@ Repositorio Base para desenvolvimento do Desafio AluraFlix do Challenge ONE Fron
 json-server --watch aluraFlix/public/db.json -p 8000
 ```
 
-2. Acesse o [site](TODO) ou ative a aplicação:
+2. Acesse o [site](https://alura-aluraflix-coral.vercel.app/) ou ative a aplicação:
 
 ```
 npm run dev
